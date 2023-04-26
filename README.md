@@ -17,7 +17,7 @@ C:\Users\”SU USUARIO”\AppData\Roaming\deemix\spotify
 Abrimos el archivo “config.json” con el editor de texto, cargamos las credenciales y guardamos.
 
 Paso 3:
-Buscar ARL de Deezer.
+Buscar ARL de Deezer.(tutorial: https://youtu.be/0neXhZh6HEQ )
 Con el ARL, dirigirnos a la siguiente ruta:
 C:\Users\tomas\AppData\Roaming\deemix
 Abrir el archivo con el editor de texto, cargamos las credenciales y guardamos.
