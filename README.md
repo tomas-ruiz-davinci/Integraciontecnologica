@@ -6,7 +6,9 @@ Paso 2:
 Luego debemos registrarnos como desarrolladores en “Spotify For Developers”. Creamos una nueva app con los datos 
 
 App Name: “deemix features”
+
 App description: “enables deemix features”
+
 Redirect URLs: “https://example.com/callback”
 
 Una vez creada la app nos va a dar el Client ID y Client Secret.
